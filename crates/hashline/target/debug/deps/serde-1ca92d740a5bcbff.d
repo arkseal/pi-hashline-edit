@@ -1,0 +1,14 @@
+/home/aarush/code/pi_plugins/pi-hashline-edit/crates/hashline/target/debug/deps/serde-1ca92d740a5bcbff.d: /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/aarush/code/pi_plugins/pi-hashline-edit/crates/hashline/target/debug/build/serde-46367230ef002103/out/private.rs
+
+/home/aarush/code/pi_plugins/pi-hashline-edit/crates/hashline/target/debug/deps/libserde-1ca92d740a5bcbff.rlib: /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/aarush/code/pi_plugins/pi-hashline-edit/crates/hashline/target/debug/build/serde-46367230ef002103/out/private.rs
+
+/home/aarush/code/pi_plugins/pi-hashline-edit/crates/hashline/target/debug/deps/libserde-1ca92d740a5bcbff.rmeta: /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/aarush/code/pi_plugins/pi-hashline-edit/crates/hashline/target/debug/build/serde-46367230ef002103/out/private.rs
+
+/home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/aarush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/aarush/code/pi_plugins/pi-hashline-edit/crates/hashline/target/debug/build/serde-46367230ef002103/out/private.rs:
+
+# env-dep:OUT_DIR=/home/aarush/code/pi_plugins/pi-hashline-edit/crates/hashline/target/debug/build/serde-46367230ef002103/out

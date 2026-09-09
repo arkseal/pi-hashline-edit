@@ -1,0 +1,32 @@
+{
+  "name": "pi-hashline-edit",
+  "version": "1.0.0",
+  "description": "High-efficiency hashline edit engine in Rust and TypeScript with ast-edit for Pi coding agent",
+  "type": "module",
+  "main": "./src/index.ts",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "coding-agent",
+    "hashline",
+    "edit",
+    "ast-edit",
+    "rust",
+    "token-optimization"
+  ],
+  "author": "arkseal",
+  "license": "MIT",
+  "scripts": {
+    "test": "bun test tests/**/*.test.ts",
+    "build:rust": "cd crates/hashline && cargo build --release"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": ">=0.74.0",
+    "typebox": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./src/index.ts"
+    ]
+  }
+}
