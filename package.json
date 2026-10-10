@@ -21,8 +21,8 @@
     "build:rust": "cd crates/hashline && cargo build --release"
   },
   "peerDependencies": {
-    "@earendil-works/pi-coding-agent": ">=0.74.0",
-    "typebox": "*"
+    "@earendil-works/pi-coding-agent": "^1.1.0",
+    "typebox": "^1.3.36"
   },
   "pi": {
     "extensions": [
